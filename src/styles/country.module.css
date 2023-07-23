@@ -1,0 +1,14 @@
+.container{
+    background-color: bisque;
+    justify-content: center;
+    margin: 5px;
+    align-content: stretch;
+}
+
+.flag{
+    padding: 10px;
+}
+
+.btn{
+    display: inline-block;
+}

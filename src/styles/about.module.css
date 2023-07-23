@@ -1,0 +1,20 @@
+.container{
+    align-items: center;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 110px;
+}
+
+h1{
+    margin: 50px;
+}
+
+.info-container{
+    border: 5px solid gray;
+    border-radius: 10px;
+    margin: 100px;
+}
+
+.info{
+    font-size: 24px;
+}
